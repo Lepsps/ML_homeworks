@@ -52,12 +52,3 @@
 *   Matplotlib
 *   Seaborn
 *   Scikit-learn
-
-## Как запустить
-
-1.  Клонировать репозиторий:
-    ```bash
-    git clone [ссылка на ваш репозиторий]
-    ```
-2.  Открыть файл `classification_task.ipynb` в среде Jupyter Notebook / Jupyter Lab или напрямую в Google Colaboratory.
-3.  Выполнить все ячейки последовательно. Все необходимые библиотеки являются стандартными для Google Colab и Anaconda.
